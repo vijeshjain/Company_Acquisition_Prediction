@@ -17,3 +17,9 @@ Market Analysts.
 4. npm-sentiment
 5. npm-twit
 6. HighCharts
+
+##Steps to run the Project:
+1. Install NodeJS-MySQL (Import MySQL script to populate your DB with mock data + Configure Node/MySQL settings).
+2. Navigate to bin folder.
+3. Type "node www" on your command prompt/terminal.
+4. Hit "http://localhost:3000"
