@@ -26,22 +26,22 @@ Market Analysts.
 
 ##Project Screenshots:
 
-1. Homepage:
+-> Homepage:
 
 ![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Homepage.PNG)
 
-2. Analyze a company pair:
+-> Analyze a company pair [ Microsoft (MSFT) & Nokia (NOK) ]:
 
 ![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Analyze.PNG)
 
-3. Visualize Stats:
+-> Visualize Stats:
 
 ![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Stats.PNG)
 
-4. Sentiment Analysis:
+-> Sentiment Analysis:
 
 ![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Tweets.PNG)
 
-5. Merger & Acquisition (M&A) Prediction Results:
+-> Merger & Acquisition (M&A) Prediction Results:
 
 ![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Prediction.PNG)
