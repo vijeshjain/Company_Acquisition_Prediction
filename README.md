@@ -23,3 +23,25 @@ Market Analysts.
 2. Navigate to bin folder.
 3. Type "node www" on your command prompt/terminal.
 4. Hit "http://localhost:3000"
+
+##Project Screenshots:
+
+1. Homepage:
+
+![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Homepage.PNG)
+
+2. Analyze a company pair:
+
+![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Analyze.PNG)
+
+3. Visualize Stats:
+
+![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Stats.PNG)
+
+4. Sentiment Analysis:
+
+![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Tweets.PNG)
+
+5. Merger & Acquisition (M&A) Prediction Results:
+
+![alt tag](https://github.com/vijeshjain/Company_Acquisition_Prediction/blob/master/Screenshots/Prediction.PNG)
