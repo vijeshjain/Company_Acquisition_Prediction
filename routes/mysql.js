@@ -3,11 +3,11 @@ var mysql = require('mysql');
 
 function getConnection() {
     var connection = mysql.createConnection({
-        host: 'us-cdbr-iron-east-02.cleardb.net',
-        user: 'b917ced1f03450',
-        password: 'fb64a271',
-        database: 'ad_abf6fb0a6c3832c',
-        port: 3306
+        host: '',
+        user: '',
+        password: '',
+        database: '',
+        port: 
     });
     return connection;
 }
